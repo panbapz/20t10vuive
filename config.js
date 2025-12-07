@@ -1,4 +1,4 @@
-export const PASSWORD = "12345";
+export const PASSWORD = "123456";
 
 export const noData = [
     { text: "Anh chắc chưa đó??", btn: "Thật sao anh", img: "./assets/images/2.gif" },
@@ -11,4 +11,5 @@ export const noData = [
 export const letterHeading = "Gửi em yêu,";
 
 export const letterText = `Cảm ơn em đã bước đến một cách mãnh liệt nhưng cũng dịu dàng đến thế.`;
+
 
