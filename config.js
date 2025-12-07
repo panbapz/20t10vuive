@@ -10,6 +10,7 @@ export const noData = [
 
 export const letterHeading = "Gửi em yêu,";
 
-export const letterText = `Cảm ơn em đã bước đến một cách mãnh liệt nhưng cũng dịu dàng đến thế.`;
+export const letterText = `Cảm ơn em đã bước đến một cách mãnh liệt nhưng cũng dịu dàng đến thế!.`;
+
 
 
